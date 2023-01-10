@@ -11,13 +11,14 @@ This reproducibility study presents an algorithm to weigh in race distribution d
 
 
 ## Installation & Usage
++ [download clinical trials and pubmed abstracts](download_clinical_trials_and_pubmed_abstracts.ipynb)
 + [train FastText embeddings](train_embeddings_fasttext.ipynb)
 + [train BERT embeddings](train_embeddings_BERT.ipynb)
 + [generate ICU readmission and Length of hospital stay data from mimic4 ](generate_mimic4_stay_icu_readmission_data.ipynb)
-+ [Test neutral BERT embeddings for ICU readmission and Length of hospital stay prediction](Prediction_BERT_embedding_test_neutral.ipynb)
-+ [Test race-sensitive BERT embeddings for ICU readmission and Length of hospital stay prediction](Prediction_BERT_embedding_test_sensitive.ipynb)
-+ [Test neutral and race-sensitive FastText embeddings for ICU readmission](Prediction_FastText_embedding_test_Readmission.ipynb)
-+ [Test neutral and race-sensitive FastText embeddings for Length of hospital stay prediction](Prediction_FastText_embedding_test_LOS.ipynb)
++ [test neutral BERT embeddings for ICU readmission and Length of hospital stay prediction](Prediction_BERT_embedding_test_neutral.ipynb)
++ [test race-sensitive BERT embeddings for ICU readmission and Length of hospital stay prediction](Prediction_BERT_embedding_test_sensitive.ipynb)
++ [test neutral and race-sensitive FastText embeddings for ICU readmission](Prediction_FastText_embedding_test_Readmission.ipynb)
++ [test neutral and race-sensitive FastText embeddings for Length of hospital stay prediction](Prediction_FastText_embedding_test_LOS.ipynb)
 
 
 ## License
