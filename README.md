@@ -1,6 +1,6 @@
 # race-sensitive-embeddings-mimic4
 
-## Source code repo for paper `Can Race-sensitive Biomedical Embeddings Improve Healthcare Predictive Models`
+## Source code repo for  AMIA Informatics Summit 2023 paper `Can Race-sensitive Biomedical Embeddings Improve Healthcare Predictive Models`
 
 
 
