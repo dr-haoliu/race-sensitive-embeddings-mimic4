@@ -2,7 +2,7 @@
 
 ## Source code repo for  AMIA Informatics Summit 2023 paper `Can Race-sensitive Biomedical Embeddings Improve Healthcare Predictive Models`
 
-
+## Please cite the paper and give a star if you use the code in this repo. 
 
 ## Abstract
 This reproducibility study presents an algorithm to weigh in race distribution data of clinical research study samples when training biomedical embeddings.   
@@ -26,4 +26,4 @@ We conclude that demographic sensitive embeddings do not necessarily significant
 
 
 ## License
-This project is licensed under the terms of the MIT license.`
+This project is licensed under the terms of the MIT license.
